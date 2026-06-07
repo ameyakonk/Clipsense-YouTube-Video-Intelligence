@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp_range": [0, 60],
+    "question": "What is the video about?",
+    "expected_keywords": ["keyword1", "keyword2"]
+  },
+  {
+    "timestamp_range": [60, 120],
+    "question": "What does the speaker say about X?",
+    "expected_keywords": ["keyword1", "keyword2"]
+  }
+]

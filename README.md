@@ -19,10 +19,10 @@
 
 | | Feature | Description |
 |:---:|:---|:---|
-| 🔗 | **Automated Ingestion** | Paste a YouTube URL — transcript is fetched, sanitized, and indexed automatically |
+| 🔗 | **Automated Ingestion** | Paste a YouTube URL - transcript is fetched, sanitized, and indexed automatically |
 | 💬 | **Natural Language Querying** | Ask anything about the video in plain English |
 | 🕐 | **Timestamp Citations** | Every answer references exactly where in the video the information came from |
-| 💾 | **Persistent Storage** | Ingest once, query many times — ChromaDB persists locally between sessions |
+| 💾 | **Persistent Storage** | Ingest once, query many times - ChromaDB persists locally between sessions |
 | ✅ | **Validation Harness** | Checks AI-generated summaries against manual ground truth for factual consistency |
 | 🖥️ | **Streamlit UI** | Simple browser-based interface, no frontend experience needed |
 

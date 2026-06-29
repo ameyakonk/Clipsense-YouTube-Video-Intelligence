@@ -1,4 +1,4 @@
-# ClipSense — YouTube Video Intelligence
+# ClipSense - YouTube Video Intelligence
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
